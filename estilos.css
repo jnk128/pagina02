@@ -13,9 +13,6 @@
   flex: 1 0 250px;
   padding: 10px;
 }
-main{
-
-}
 article{
 	margin: 0 auto;
 	width: 70%;
@@ -31,4 +28,14 @@ article{
 }
 .gris{
 	color:#777;
+}
+iframe{
+	height: 100vh;
+}
+
+footer{
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 10px;
 }
